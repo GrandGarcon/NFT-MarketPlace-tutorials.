@@ -1,0 +1,3 @@
+[submodule "opensea-creatures"]
+	path = opensea-creatures
+	url = git@github.com:ProjectOpenSea/opensea-creatures.git
